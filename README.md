@@ -19,7 +19,7 @@ I focus on:
 ## Tech Stack
 
 - **Languages**: JSON,JavaScript, Python, C++, SQL, HTML, CSS, JSON, ESRI Arcade
-- **Cloud Platforms**: Google Cloud Platform (GCP), ESRI ArcGIS AGOL Suite
+- **Cloud Platforms**: Google Cloud Platform (GCP),Docker Hub, ESRI ArcGIS AGOL Suite
 - **Data Tools**: Power BI, Looker Studio
 - **ETL Processes**: Building robust data pipelines
 
